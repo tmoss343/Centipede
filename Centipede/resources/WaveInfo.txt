@@ -1,0 +1,30 @@
+TotalWaves 3
+WaveNumber 0
+SpiderSpeed 1
+NumberOfCentipedes 2
+CentipedeSpeed 2
+CentipedeLength 12
+CentipedeSpeed 2
+CentipedeLength 4
+SpawnTimer 2
+MinMushroomsInPlayerArea 2
+
+WaveNumber 1
+SpiderSpeed 6
+NumberOfCentipedes 1
+CentipedeSpeed 4
+CentipedeLength 13
+SpawnTimer 30
+MinMushroomsInPlayerArea 2
+
+WaveNumber 2
+SpiderSpeed 8
+NumberOfCentipedes 3
+CentipedeSpeed 8
+CentipedeLength 11
+CentipedeSpeed 2
+CentipedeLength 1
+CentipedeSpeed 2
+CentipedeLength 1
+SpawnTimer 30
+MinMushroomsInPlayerArea 2
